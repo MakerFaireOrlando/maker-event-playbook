@@ -107,6 +107,11 @@ entries:
     output: web
     folderitems:
 
+    - title: Marketing Overview
+      url: /#
+      output: web
+      type: homepage
+
     - title: Emails
       url: /#
       output: web
