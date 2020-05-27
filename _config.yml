@@ -4,24 +4,24 @@ remote_theme: tomjoht/documentation-theme-jekyll@gh-pages
 plugins:
   - jekyll-remote-theme
 
-repository: nationofmakers/maker-event-playbook
+repository: makerfaireorlando/maker-event-playbook
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Maker Event Playbook
+topnav_title: Maker Faire Orlando Playbook
 # this appears on the top navigation bar next to the home button
 
-site_title: Maker Event Playbook
+site_title: Maker Faire Orlando Playbook
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Nation of Makers
+company_name: The Maker Effect Foundation
 # this appears in the footer
 
-github_editme_path: nationofmakers/maker-event-playbook/blob/master/
+github_editme_path: makerfaireorlando/maker-event-playbook/blob/master/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
-feedback_subject_line: Maker Event Playbook
+feedback_subject_line: Maker Faire Orlando Playbook
 
 feedback_email: ian.cole@themakereffect.org
 # used as a contact email for the Feedback link in the top navigation bar
