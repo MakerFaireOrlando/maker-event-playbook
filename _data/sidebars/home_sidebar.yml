@@ -143,6 +143,75 @@ entries:
       output: web
       type: homepage
 
+  - title: Hands-On Activations
+    output: web
+    folderitems:
+
+    - title: Make-A-Shirt
+      url: /#
+      output: web
+      type: homepage
+
+    - title: Mold-A-Makey
+      url: /#
+      output: web
+      type: homepage
+
+    - title: Learn-To-Solder
+      url: /#
+      output: web
+      type: homepage
+
+    - title: Make-A-Button
+      url: /#
+      output: web
+      type: homepage
+
+    - title: Take-It-Apart
+      url: /#
+      output: web
+      type: homepage
+
+    - title: Nerdy Derby
+      url: /#
+      output: web
+      type: homepage
+
+  - title: Venue
+    output: web
+    folderitems:
+
+    - title: Venue Overview
+      url: /#
+      output: web
+      type: homepage
+
+    - title: Tables and Chairs
+      url: /#
+      output: web
+      type: homepage
+
+    - title: Fire Marshall
+      url: /#
+      output: web
+      type: homepage
+
+    - title: Food Service
+      url: /#
+      output: web
+      type: homepage
+
+    - title: Power
+      url: /#
+      output: web
+      type: homepage
+
+    - title: Permits
+      url: /#
+      output: web
+      type: homepage
+
+
   - title: General Event Topics
     output: web
     folderitems:
