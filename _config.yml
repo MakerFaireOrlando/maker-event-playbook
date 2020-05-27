@@ -73,7 +73,7 @@ sidebars:
 exclude:
 - README
 
-description: "A guide for producing Maker Events, brought to you by the community of maker event producers within Nation of Makers."
+description: "A guide for producing Maker Faire Orlando, created by those who have made it possible in the past."
 # the description is used in the feed.xml file
 
 theme: jekyll-theme-time-machine
