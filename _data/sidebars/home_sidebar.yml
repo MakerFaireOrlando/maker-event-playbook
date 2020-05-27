@@ -50,10 +50,33 @@ entries:
       url: /assets/branding
       output: web
 
+  - title: Sponsors and Grants
+    output: web
+    folderitems:
+
+    - title: Sponsors
+      url: /#
+      output: web
+      type: homepage
+
+    - title: Orange County Arts and Cultural Affairs
+      url: /#
+      output: web
+      type: homepage
+
+    - title: Thank You Gifts
+      url: /#
+      output: web
+      type: homepage
 
   - title: Makers
     output: web
     folderitems:
+
+    - title: Makers Overview
+      url: /#
+      output: web
+      type: homepage
 
     - title: Recruiting Makers
       url: /#
@@ -177,6 +200,30 @@ entries:
       output: web
       type: homepage
 
+  - title: Stage
+    output: web
+    folderitems:
+
+    - title: Stage Overview
+      url: /#
+      output: web
+      type: homepage
+
+    - title: Talks
+      url: /#
+      output: web
+      type: homepage
+
+    - title: Performances
+      url: /#
+      output: web
+      type: homepage
+
+    - title: Schedule
+      url: /#
+      output: web
+      type: homepage
+
   - title: Venue
     output: web
     folderitems:
@@ -246,6 +293,40 @@ entries:
       type: homepage
 
     - title: First Aid Kits
+      url: /#
+      output: web
+      type: homepage
+
+  - title: Crew
+    output: web
+    folderitems:
+
+    - title: Crew Overview
+      url: /#
+      output: web
+      type: homepage
+
+    - title: Recruiting Crew
+      url: /#
+      output: web
+      type: homepage
+
+    - title: Crew Office
+      url: /#
+      output: web
+      type: homepage
+
+    - title: Crew Food
+      url: /#
+      output: web
+      type: homepage
+
+    - title: Crew Gratitude
+      url: /#
+      output: web
+      type: homepage
+
+    - title: Producer in Residence Program
       url: /#
       output: web
       type: homepage
