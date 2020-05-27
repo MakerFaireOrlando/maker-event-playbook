@@ -211,6 +211,44 @@ entries:
       output: web
       type: homepage
 
+  - title: Safety and Security
+    output: web
+    folderitems:
+
+    - title: Safety and Security Overview
+      url: /#
+      output: web
+      type: homepage
+
+    - title: Fire Ants
+      url: /#
+      output: web
+      type: homepage
+
+    - title: Snake in the Crew Office
+      url: /#
+      output: web
+      type: homepage
+
+    - title: Infectious Disease Prevention
+      url: /#
+      output: web
+      type: homepage
+
+    - title: Heat Stroke
+      url: /#
+      output: web
+      type: homepage
+
+    - title: EMS
+      url: /#
+      output: web
+      type: homepage
+
+    - title: First Aid Kits
+      url: /#
+      output: web
+      type: homepage
 
   - title: General Event Topics
     output: web
