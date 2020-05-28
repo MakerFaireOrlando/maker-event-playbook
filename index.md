@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Maker Event Playbook
+title: Welcome to the Maker Faire Orlando Playbook
 keywords: homepage
 tags: [getting_started]
 sidebar: home_sidebar
