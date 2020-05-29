@@ -1,9 +1,9 @@
 ---
-title: Video Media Promotional and Multimedia Event ContentSignage
+title: Video Media Promotional and Multimedia Event Content
 keywords: General Topics
 tags: [video, media, promotional material]
 sidebar: home_sidebar
-permalink: /general/media_and_video
+permalink: /general/photo_and_video
 summary: Video and animated media content serve to promote the event and provide informational content at the event. This content can include event commercials, call for presenters, attendees, volunteers and sponsors. Some content will be distributed by other entities, which will require special considerations. These considerations include, file format, video resolution, aspect ratio, content rating and terms of use. With consideration of these items and others, a successful marketing promotional campaign can leverage media content to increase attendance and attendee satisfaction.
 ---
 
