@@ -435,7 +435,7 @@ entries:
     - title: Photos and Videos
       url: /general_events/photo_and_video
       output: web
-      type: homepage
+      
 
     - title: Online Ads
       url: /#
