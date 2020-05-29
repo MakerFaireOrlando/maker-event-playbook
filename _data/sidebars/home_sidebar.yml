@@ -433,7 +433,7 @@ entries:
       type: homepage
 
     - title: Photos and Videos
-      url: /general_events/media_and_video
+      url: /general_events/photo_and_video
       output: web
       type: homepage
 
