@@ -319,17 +319,17 @@ entries:
     folderitems:
 
     - title: Gate Overview
-      url: /#
+      url: /gate/overview
       output: web
       type: homepage
 
     - title: Maker Check-in
-      url: /#
+      url: /gate/maker-check-in
       output: web
       type: homepage
 
     - title: Volunteer Check-in
-      url: /#
+      url: /gate/volunteer-check-in
       output: web
       type: homepage
 
@@ -435,7 +435,7 @@ entries:
     - title: Photos and Videos
       url: /general/photo_and_video
       output: web
-      
+
 
     - title: Online Ads
       url: /#
