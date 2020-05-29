@@ -15,7 +15,7 @@ The gate is the main entry to the venue, but it is also the main source of infor
 ## Gate Functions
 
 * [Maker Check-in](/gate/maker-check-in)
-* Volunteer Check-in
+* [Volunteer Check-in](/gate/volunteer-check-in)
 * Day-of Ticket Sales
 * Presale Ticket Check-in
 
