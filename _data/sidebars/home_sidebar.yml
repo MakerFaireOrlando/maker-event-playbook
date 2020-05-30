@@ -249,7 +249,7 @@ entries:
     folderitems:
 
     - title: Power Racing Overview
-      url: /#
+      url: /power-racing/overview
       output: web
       type: homepage
 
