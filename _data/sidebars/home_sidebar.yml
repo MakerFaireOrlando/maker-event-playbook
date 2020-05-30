@@ -437,6 +437,9 @@ entries:
       url: /general/photo_and_video
       output: web
 
+    - title: Branding
+      url: /assets/branding/branding
+      output: web
 
     - title: Online Ads
       url: /coming-soon#
