@@ -323,6 +323,21 @@ entries:
       output: web
       type: homepage
 
+    - title: Presale Ticket Check-in
+      url: /gate/presale-ticket-check-in
+      output: web
+      type: homepage
+
+    - title: Day-of Ticket Sales
+      url: /gate/day-of-ticket-sales
+      output: web
+      type: homepage
+
+    - title: Free Ticket Check-in
+      url: /gate/free-ticket-check-in
+      output: web
+      type: homepage
+
     - title: Maker Check-in
       url: /gate/maker-check-in
       output: web
@@ -330,16 +345,6 @@ entries:
 
     - title: Volunteer Check-in
       url: /gate/volunteer-check-in
-      output: web
-      type: homepage
-
-    - title: Presale Ticket Check-in
-      url: /#
-      output: web
-      type: homepage
-
-    - title: Day-of Ticket Sales
-      url: /#
       output: web
       type: homepage
 
