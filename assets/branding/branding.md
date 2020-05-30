@@ -23,14 +23,14 @@ The current library of TMEF Logos, including MFO and Robot Ruckus, can be downlo
 
 ## Playbook Logos
 
-[Black Background 1000px wide Orlando Playbook logo](/branding/MFO-playbook-bl.jpg)
+[Black Background 1000px wide Orlando Playbook logo](/assets/branding/MFO-playbook-bl.jpg)
 
-![Black Background 1000px wide Orlando Playbook logo](/branding/MFO-playbook-bl.jpg){: width="100px"}  
+![Black Background 1000px wide Orlando Playbook logo](/assets/branding/MFO-playbook-bl.jpg){: width="100px"}  
 
 
-[White Background 1000px wide Orlando Playbook logo](/branding/MFO-playbook.jpg)
+[White Background 1000px wide Orlando Playbook logo](/assets/branding/MFO-playbook.jpg)
 
-![White Background 1000px wide Orlando Playbook logo](/branding/MFO-playbook.jpg){: width="100px"}  
+![White Background 1000px wide Orlando Playbook logo](/assets/branding/MFO-playbook.jpg){: width="100px"}  
 
 [Black Background 2000px wide logo](https://github.com/nationofmakers/maker-event-playbook/blob/master/assets/branding/OSMEP-dark-nom-2000px.jpg)
 
