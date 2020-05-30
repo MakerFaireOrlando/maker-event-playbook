@@ -396,9 +396,8 @@ entries:
       type: homepage
 
     - title: Radios
-      url: /coming-soon#
+      url: /pages/general_events/radios
       output: web
-      type: homepage
 
     - title: EventBrite Equipment
       url: /coming-soon#
