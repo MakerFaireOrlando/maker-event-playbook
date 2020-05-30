@@ -14,10 +14,15 @@ The gate is the main entry to the venue, but it is also the main source of infor
 
 ## Gate Functions
 
+### Attendees
+* [Day-of Ticket Sales](/gate/day-of-ticket-sales)
+* [Presale Ticket Check-in](/gate/presale-ticket-check-in)
+* [Free Ticket Check-in for Educators, First Responders, Veterans, and others](/gate/free-ticket-check-in)
+
+### Other Stakeholders
 * [Maker Check-in](/gate/maker-check-in)
 * [Volunteer Check-in](/gate/volunteer-check-in)
-* Day-of Ticket Sales
-* [Presale Ticket Check-in](/gate/presale-ticket-check-in)
+
 
 ## Gate Crew Roles
 
