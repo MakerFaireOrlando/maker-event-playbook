@@ -14,6 +14,41 @@ Makers get their check in packet with event information as well as their credent
 They should have reported their number of helpers online, so the packets should be complete, but the default is 3 helpers per maker.
 The maker check in coordinator can make helper corrections within these guidelines as needed without contacting the gate captain or a producer.
 
+## Maker Packets
+
+Each EXHIBIT receives a packet (but we call it a maker packet anyway) that is a manilla envelope with the items they need for the weekend.
+
+### Typical Contents
+* Program
+* Lanyards
+* Wristbands
+* Laminate Badges
+* Sharpie
+* Garbage bags
+* Stickers
+* Pins
+
+### Typical Information on Label
+* Exhibit number
+* Exhibit name
+* Maker name
+* Exhibit space number
+* Number of helpers (or number of total credentials to include)
+
+
+### Making labels
+Used 2 exports- Approved for Mailchimp and maker check in export
+
+Filtered maker check in for [year] only
+sorted both by Exhibit ID
+Add Location from Mail Chimp to Check In Export
+Clean Up unneeded Columns
+Mail Merge from Combined File.
+
+CAN BE MADE  A SINGLE FILE IF WE ADD HELPER COUNT TO MAIL CHIMP EXPORT OR SPACE TO CHECK IN EXPORT.
+
+(Ian's note - did we make this improvement yet?)
+
 ## Problem Solving
 Makers are often in a hurry and have lots of questions. When someone is causing a bottleneck, pull them to the side so other volunteers can keep the check in line moving.
 
