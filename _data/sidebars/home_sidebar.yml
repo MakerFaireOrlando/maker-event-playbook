@@ -24,10 +24,6 @@ entries:
       output: web
       type: homepage
 
-    - title: Collaborators
-      url: /contribute/collaborators
-      output: web
-
     - title: Contributing
       url: /contribute/contributing
       output: web
