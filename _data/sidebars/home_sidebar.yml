@@ -204,9 +204,9 @@ entries:
 
 
     - title: Schedule
-      url: /general/stae-schedule
+      url: /general/stage-schedule
       output: web
-  
+
   - title: Robot Ruckus
     output: web
     folderitems:
