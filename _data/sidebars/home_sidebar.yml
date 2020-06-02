@@ -185,27 +185,28 @@ entries:
       url: /coming-soon#
       output: web
       type: homepage
+
   - title: Talks & Performances
     output: web
     folderitems:
 
     - title: Stage
-      url: /coming-soon#
+      url: /general/stage
       output: web
-      type: homepage
+
     - title: Talks
-      url: /coming-soon#
+      url: /general/talks
       output: web
-      type: homepage
+
     - title: Performances
-      url: /coming-soon#
+      url: /general/performances
       output: web
-      type: homepage
+
 
     - title: Schedule
-      url: /coming-soon#
+      url: /general/stae-schedule
       output: web
-      type: homepage
+  
   - title: Robot Ruckus
     output: web
     folderitems:
