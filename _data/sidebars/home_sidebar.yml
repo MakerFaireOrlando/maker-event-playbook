@@ -251,17 +251,14 @@ entries:
     - title: Power Racing Overview
       url: /power-racing/overview
       output: web
-      type: homepage
 
     - title: Recruiting Racers
-      url: /coming-soon#
+      url: /power-racing/recruiting-racers
       output: web
-      type: homepage
 
     - title: Track and Pits Layout
-      url: /coming-soon#
+      url: /power-racing/track-layout
       output: web
-      type: homepage
 
     - title: Safety
       url: /coming-soon#
